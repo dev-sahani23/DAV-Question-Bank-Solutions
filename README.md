@@ -45,13 +45,13 @@ The notebooks may use the following Python libraries:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/dev-sahani23/DAV-Question-Bank-Solutions.git
 ```
 
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd <repository-folder>
+cd DAV-Question-Bank-Solutions
 ```
 
 ### 3. Create a Virtual Environment (Optional)
